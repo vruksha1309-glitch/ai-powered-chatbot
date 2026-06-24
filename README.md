@@ -23,4 +23,9 @@ SQLite
 HTML, CSS, JavaScript
 Project Outcome
 
-Developed and deployed an intelligent chatbot capable of handling customer support queries and FAQs while maintaining conversation logs and providing accurate, context-aware responses through Natural Language Processing techniques.
+Developed and deployed an intelligent chatbot capable of handling customer support queries and FAQs while maintaining conversation logs and providing accurate, context-aware responses through Natural Language Processing techniques. 
+PROJECT LINK:
+https://1drv.ms/f/c/bb7334d49278c3da/IgAEspTWjALyQImK-VxY-Z2EAc5kJ5WGtJWuL6PxcJ4PO90?e=XIM9UU
+
+BY:
+T VRUKSHA
